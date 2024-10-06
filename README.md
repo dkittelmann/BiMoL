@@ -1,4 +1,4 @@
-# Biologically Inspired Models Of Learning
+# Biologically inspired Models of Learning (BiMoL)
 
 `[Last update: October  6, 2024]`
 
@@ -52,5 +52,5 @@ Thus, the `-e` flag is recommended to use.
 
 ## Contributors/Collaborators
 
-Dirk Gütlin & 
+Dirk Gütlin &
 Ryszard Auksztulewicz
