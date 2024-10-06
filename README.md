@@ -6,7 +6,7 @@
     Period:     2023-09 - ...
     Status:     work in progress
 
-    Author(s):  Kittelmann
+    Author(s):  Denise Kittelmann
     Contact:    denisekittelmann@gmail.com
 
 ***
@@ -52,5 +52,5 @@ Thus, the `-e` flag is recommended to use.
 
 ## Contributors/Collaborators
 
-Dirk Gütlin
+Dirk Gütlin, 
 Ryszard Auksztulewicz
