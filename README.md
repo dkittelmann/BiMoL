@@ -1,4 +1,4 @@
-# BiologicallyInspiredModelsOfLearning
+# Biologically Inspired Models Of Learning
 
 `[Last update: October  6, 2024]`
 
@@ -11,14 +11,13 @@
 
 ***
 
-*In general, one can add README's in nearly every folder. The guiding principle should always be that any person who is not familiar with the project can find their way exclusively via the README's – 'This may be you one day'*
-
 ## Project description
 
 This projects investigates the alignment between the brain and Biologically Inspired Artificial Neural Networks in comparison to the alignment between the brain and traditional Artificial Neural Networks (ANNs) by comparing the temporal dynamics evoked by an Predictive Coding Network (PCN) and an backpropagation-trained ANN using Representational Similarity Analysis (RSA).
 
 ## Project structure
 
+ToDo:
 *A brief description of the folder structure of the project (Where is what?). Anticipate new lab members who suppose to be able to orientate within this structure without your help. At the same time, avoid too detailed descriptions. Down the folder structure, there suppose to be further README's explaining subsequent folders & data.*
 
 ## Install research code as package
@@ -50,13 +49,8 @@ Thus, the `-e` flag is recommended to use.
 
 *Similarly, use this structure for Matlab or other programming languages, which are employed in this project.*
 
-## Publications
-
-*List publications resulted from this project (including papers, posters, talks, ...)*
-
-
 
 ## Contributors/Collaborators
 
-*Name people who are involved in this project, their position and/or contribution. Optional: add contact data*
-Dirk Gütlin & Ryszard Auksztulewicz
+Dirk Gütlin
+Ryszard Auksztulewicz
