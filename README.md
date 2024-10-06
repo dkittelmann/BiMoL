@@ -52,5 +52,5 @@ Thus, the `-e` flag is recommended to use.
 
 ## Contributors/Collaborators
 
-Dirk Gütlin, 
+Dirk Gütlin & 
 Ryszard Auksztulewicz
