@@ -3,7 +3,7 @@
 `[Last update: October  6, 2024]`
 
 ***
-    Period:     2024-10 - ...
+    Period:     2023-09 - ...
     Status:     work in progress
 
     Author(s):  Kittelmann
@@ -15,7 +15,7 @@
 
 ## Project description
 
-This projects investigates the alignment between the brain and biologically inspired artificial neural networks in comparison to the alignment between the brain and traditional artifical neural networks by comparing the temporal dynamics evoked by an Predictive Coding Network (PCN) and an backpropagation trained ANN using  representational similarity analysis (RSA).
+This projects investigates the alignment between the brain and Biologically Inspired Artificial Neural Networks in comparison to the alignment between the brain and traditional Artificial Neural Networks (ANNs) by comparing the temporal dynamics evoked by an Predictive Coding Network (PCN) and an backpropagation-trained ANN using Representational Similarity Analysis (RSA).
 
 ## Project structure
 
@@ -47,19 +47,16 @@ i.e., changes to the code will be directly reflected in the installed package.
 Moreover, the code keeps its access to the research data in the underlying folder structure.
 Thus, the `-e` flag is recommended to use.
 
-*R*-projects should be initialized in the project root `.` with, e.g., `RStudio` as *existing directory*.
-Corresponding *R*-scripts can be stored in `./code/Rscripts/`
 
-Similarly, use this structure for Matlab or other programming languages, which are employed in this project.
+*Similarly, use this structure for Matlab or other programming languages, which are employed in this project.*
 
 ## Publications
 
 *List publications resulted from this project (including papers, posters, talks, ...)*
 
-## Preregistration
 
-*If applicable, was the project pre-registered and if yes, when and where (link)*
 
 ## Contributors/Collaborators
 
 *Name people who are involved in this project, their position and/or contribution. Optional: add contact data*
+Dirk Gütlin & Ryszard Auksztulewicz

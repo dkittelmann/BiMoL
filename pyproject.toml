@@ -12,8 +12,7 @@ authors = [
 maintainers = [
     { name = "Kittelmann", email = "denisekittelmann@gmail.com" },
 ]
-keywords = ["very", "great", "study"] # TODO change to actual keywords
-# Check for classifiers: https://pypi.org/classifiers/
+keywords = ["learning", "inference", "artifical neural networks", "neuroconnectionist models" , "backpropagation", "predictive coding"]
 classifiers = [
     "Development Status :: 1 - Planning",
     "Intended Audience :: Science/Research",
@@ -191,9 +190,7 @@ include = ["*.py", "*.pyi", "**/pyproject.toml", "*.ipynb"]
 extend-exclude = [
     "code/configs",
     "data",
-    "literature",
     "organisation",
-    "publications",
     "results",
 ]
 
@@ -262,9 +259,7 @@ exclude = '''  # A regex preceded with ^/ will apply only to files and directori
 (
   ^/code/configs
   | ^/data
-  | ^/literature
   | ^/organisation
-  | ^/publications
   | ^/results
   | /*/\..*  # ignore (hidden) files in hidden directories
 )
