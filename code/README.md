@@ -1,4 +1,4 @@
-# BiologicallyInspiredModelsOfLearning – **code**
+# Biologically Inspired Models Of Learning (BiMoL)– **code**
 
     Last update:    October  6, 2024
     Status:         work in progress
@@ -11,7 +11,7 @@
 For instance, one could describe the computational model that was applied,
 and which statistical approach has been chosen for.*
 
-## Preprocessing
+## Util scripts
 
 *General information regarding preprocessing could be written in the data [README.md](../data/README.md).
 One could add here more implementation-specific information (e.g., which toolboxes were used).*
@@ -35,13 +35,6 @@ pip install -e ".[develop]"
 #### Jupyter Notebooks
 
 Jupyter notebooks are stored in `./code/notebooks/`
-
-### R
-
-*Initialize a new R-project in the project root of `BiMoL` with `RStudio`.
-R-scripts can be stored in `./code/Rscripts/`.
-Use R-packages in Python with, e.g., [rpy2](https://rpy2.github.io/), or use Python packages in R using,
-e.g., [reticulate](https://rstudio.github.io/reticulate/)*.
 
 ### Configs
 
